@@ -1,0 +1,15 @@
+# Pinned to the working development environment; install the matching PyTorch build for your CPU/CUDA target.
+albumentations==2.0.8
+colorama==0.4.6
+customtkinter==5.2.2
+matplotlib==3.10.5
+numpy==2.4.1
+opencv-python==4.11.0.86
+pillow==12.1.0
+pyttsx3==2.99
+rich==14.1.0
+torch==2.11.0.dev20260115+cu128
+torchvision==0.25.0.dev20260115+cu128
+torchinfo==1.8.0
+pyinstaller==6.18.0
+psutil==7.0.0

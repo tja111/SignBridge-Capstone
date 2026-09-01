@@ -1,0 +1,44 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+detrtest.py
+realtimeimage.py
+data/archive
+
+# data
+checkpoints
+data/train/
+data/test/
+data/words/train/
+data/words/test/
+logs/
+pretrained/
+# Local run outputs and packaging artifacts (do not publish in the source repo)
+results/
+settings.json
+SignBridge_App/build/
+SignBridge_App/dist/
+installer_output/
+.claude/
+*.log
+# Saved transcripts
+transcript_*.txt
+# macOS system files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+LossAnalysis.ipynb
+.ipynb_checkpoints
+archive
+example_loggers
